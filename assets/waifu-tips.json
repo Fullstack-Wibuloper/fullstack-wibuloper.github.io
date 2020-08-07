@@ -1,33 +1,32 @@
-
 {
     "waifu": {
         "console_open_msg": ["Haha, kamu membuka konsol, apakah kamu ingin melihat rahasiaku?"],
         "copy_message": ["Apa yang telah Anda salin? Ingatlah untuk menambahkan sumber saat mencetak ulang"],
         "screenshot_message": ["Sudah diambil, bukankah itu lucu?"],
-        "hidden_message": ["我们还能再见面的吧…"],
-        "load_rand_textures": ["我还没有其他衣服呢", "我的新衣服好看嘛"],
+        "hidden_message": ["Kita bisa bertemu lagi ..."],
+        "load_rand_textures": ["Saya belum punya pakaian lain", "Apa baju baruku terlihat bagus"],
         "hour_tips": {
-            "t5-7": ["早上好！一日之计在于晨，美好的一天就要开始了"],
-            "t7-11": ["上午好！工作顺利嘛，不要久坐，多起来走动走动哦！"],
-            "t11-14": ["中午了，工作了一个上午，现在是午餐时间！"],
-            "t14-17": ["午后很容易犯困呢，今天的运动目标完成了吗？"],
-            "t17-19": ["傍晚了！窗外夕阳的景色很美丽呢，最美不过夕阳红~"],
-            "t19-21": ["晚上好，今天过得怎么样？"],
-            "t21-23": ["已经这么晚了呀，早点休息吧，晚安~"],
-            "t23-5": ["你是夜猫子呀？这么晚还不睡觉，明天起的来嘛"],
-            "default": ["嗨~ 快来逗我玩吧！"]
+            "t5-7": ["Selamat pagi! Rencana untuk suatu hari terletak di pagi hari, hari yang indah akan segera dimulai"],
+            "t7-11": ["Selamat pagi! Bekerja dengan baik, jangan duduk dalam waktu lama, bangun dan bergerak!"],
+            "t11-14": ["Ini tengah hari, bekerja sepanjang pagi, waktunya makan siang!"],
+            "t14-17": ["Mudah mengantuk di sore hari. Sudahkah Anda mencapai target olahraga hari ini? "],
+            "t17-19": ["Ini malam! Sunset di luar jendela sangatlah indah, terindah tapi sunsetnya merah ~"],
+            "t19-21": ["Selamat malam, bagaimana kabarmu hari ini? "],
+            "t21-23": ["Sudah larut malam, istirahatlah lebih awal, selamat malam ~"],
+            "t23-5": ["Apakah Anda seorang night owl? Saya belum tidur terlalu larut, jadi saya akan bangun besok"],
+            "default": ["Hai ~ Datang dan bermainlah denganku!"]
         },
         "referrer_message": {
-            "localhost": ["欢迎阅读<span style=\"color:#0099cc;\">『", "』</span>", " - "],
-            "baidu": ["Hello! 来自 百度搜索 的朋友<br>你是搜索 <span style=\"color:#0099cc;\">", "</span> 找到的我吗？"],
-            "so": ["Hello! 来自 360搜索 的朋友<br>你是搜索 <span style=\"color:#0099cc;\">", "</span> 找到的我吗？"],
-            "google": ["Hello! 来自 谷歌搜索 的朋友<br>欢迎阅读<span style=\"color:#0099cc;\">『", "』</span>", " - "],
-            "default": ["Hello! 来自 <span style=\"color:#0099cc;\">", "</span> 的朋友"],
-            "none": ["欢迎阅读<span style=\"color:#0099cc;\">『", "』</span>", " - "]
+            "localhost": ["Selamat membaca<span style=\"color:#0099cc;\">『", "』</span>", " - "],
+            "baidu": ["Hello! Teman-teman dari Baidu Search<br>Anda sedang mencari <span style=\"color:#0099cc;\">", "</span> Aku?？"],
+            "so": ["Hello! Teman dari 360 Search<br>Anda sedang mencari <span style=\"color:#0099cc;\">", "</span> Aku？"],
+            "google": ["Hello! Teman dari Google Penelusuran<br>Selamat membaca<span style=\"color:#0099cc;\">『", "』</span>", " - "],
+            "default": ["Hello! Dari <span style=\"color:#0099cc;\">", "</span> Teman"],
+            "none": ["Selamat membaca <span style=\"color:#0099cc;\">『", "』</span>", " - "]
         },
         "referrer_hostname": {
             "example.com": ["示例网站"],
-            "www.fghrsh.net": ["FGHRSH 的博客"]
+            "www.masdomath.my.id": ["MASDOMATH BLOG"]
         },
         "model_message": {
             "1": ["来自 Potion Maker 的 Pio 酱 ~"],
